@@ -1,0 +1,23 @@
+网址：https://sockboom.art
+
+本教程适用于Windows用户
+
+looks_3 解压压缩包
+
+looks_4 双击Clash for Windows.exe打开软件
+
+looks_5 点击左侧的 “配置”，在顶部的输入栏中粘贴你复制的Clash订阅地址后点击“下载”
+
+looks_8 注意：您可以在软件打开的时候尝试点击下面的“一键导入Clash配置”按钮来快速导入配置
+
+looks_6 显示绿色的成功之后，点击名字为 Sockboom 的地方
+
+looks_7 点击左侧的“代理”，点击上方的“Rule”，在下方的选项内设置你的规则（一般设置“手动选择”内的节点即可，其他可按需设置）
+
+looks_8 点击左侧的“常规”，打开下面“系统代理”的开关，即可连上我们的网络！
+
+looks_8 注意：Global为全局代理，Rule为规则代理，Direct为全局直连
+
+flash_auto
+Clash订阅地址：
+https://sub-2.suki.best/sub?target=clash&new_name=true&url=https%3A%2F%2Fsockboom.me%2Flink%2FPNDIhXTWnlRiGGs8&filename=Sockboom&config=https%3A%2F%2Fconfig.sub.suki.best%2Fsubconfig.ini
